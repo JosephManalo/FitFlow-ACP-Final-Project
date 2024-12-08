@@ -1,4 +1,4 @@
-##FitFlow: Gym Management System
+## FitFlow: Gym Management System
 
 This project is a simple gym management system.
 
@@ -44,21 +44,21 @@ The system is implemented using **Python**, leveraging core programming concepts
 - **Reducing Inequalities (SDG 10)**: FitFlow's user-friendly platform can make fitness services more accessible to a wider range of people by simplifying the registration process, offering diverse membership options (such as basic and premium), and helping gyms serve communities with different needs.
 - **Decent Work and Economic Growth (SDG 8)**: By streamlining gym operations, FitFlow can help gym owners reduce administrative costs and focus on expanding their business, potentially leading to job creation for trainers and staff, contributing to local economies.
 
-### How to Use
+## How to Use
 
-### Save the Python code in a file (e.g., FitFlow.py) and run it from your terminal using python FitFlow.py
+Save the Python code in a file (e.g., FitFlow.py) and run it from your terminal using python FitFlow.py
 
-### Example Usage
+## Example Usage
 
-### For Members
+## For Members:
 
-### Register as a Member
+- **Register as a Member**
 
-### Register as a Member by choosing Option 3
+Register as a Member by choosing Option 3
 
-### Logging in as a User
+- **Logging in as a User**
 
-### After the Registration Process. Your Membership ID will appear. Choose Option 2 to start Login In
+## After the Registration Process. Your Membership ID will appear. Choose Option 2 to start Login In
 
 - **User Menu Window:**
 
