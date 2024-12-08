@@ -6,6 +6,8 @@ Table of Contents
 
 * [Project Overview](#project-overview)
 
+* [Features](features)
+
 * [Python Implementation](#python-implementation)
 
 * [SDG Integration](#sdg-integration)
