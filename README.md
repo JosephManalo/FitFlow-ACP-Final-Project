@@ -82,7 +82,7 @@ Choosing Option 3 will take you to the payment window.
 
 You can also cancel your Subscription.
 
-**For Admins:**
+## For Admins:
 
 - **Logging in as an Admin:**
 
