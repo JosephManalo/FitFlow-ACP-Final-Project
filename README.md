@@ -6,7 +6,7 @@ Table of Contents
 
 * [Project Overview](#project-overview)
 
-* [Features](features)
+* [Features](#features)
 
 * [Python Implementation](#python-implementation)
 
