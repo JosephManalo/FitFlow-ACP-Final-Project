@@ -1,4 +1,4 @@
-FitFlow: Gym Management System
+##FitFlow: Gym Management System
 
 This project is a simple gym management system.
 
