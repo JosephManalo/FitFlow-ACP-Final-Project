@@ -18,7 +18,7 @@ Table of Contents
 
 ### Project Overview
 
-FitFlow is a **Gym Management System** is designed to streamline and automate the administrative tasks of a gym. It enables gym owners to efficiently manage memberships, process payments, and track member information, while offering users easy access to their membership details and trainer interactions. With a user-friendly interface, FitFlow ensures smooth operations for both admins and members, making gym management hassle-free.
+FitFlow is a **Gym Management System** designed to streamline and automate the administrative tasks of a gym. It enables gym owners to efficiently manage memberships, process payments, and track member information, while offering users easy access to their membership details and trainer interactions. With a user-friendly interface, FitFlow ensures smooth operations for both admins and members, making gym management hassle-free.
 
 ### Features:
 
